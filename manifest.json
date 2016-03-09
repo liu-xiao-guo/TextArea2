@@ -1,0 +1,17 @@
+{
+    "name": "textareatest.ubuntu",
+    "description": "description of TextAreaTest",
+    "architecture": "all",
+    "title": "TextAreaTest",
+    "hooks": {
+        "TextAreaTest": {
+            "apparmor": "TextAreaTest.apparmor",
+            "desktop":  "TextAreaTest.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+

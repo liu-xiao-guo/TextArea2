@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=TextAreaTest
+Exec=qmlscene $@ Main.qml
+Icon=TextAreaTest.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
